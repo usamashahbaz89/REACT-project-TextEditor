@@ -1,0 +1,31 @@
+
+
+.about{
+  border-radius: 15px;
+  border: solid 1px;
+  padding: 15px;
+}
+
+
+
+@media only screen and (max-width: 988px){
+
+  .navbar-brand{
+      padding-left: 20%;
+      font-size: 2rem;
+  }
+  .nav-item{
+    font-size:1.5rem;
+    padding-left:19px;
+  }
+  .btn{
+    margin:5px
+  }
+  .body{
+    height: 120vh;
+  }
+  
+  
+  
+}
+
